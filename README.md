@@ -4,8 +4,8 @@ This project is a visualization tool for pathfinding algorithms implemented usin
 
 # Features
 
- Maze Creation: Users can create mazes manually by clicking on the grid or automatically generate mazes using pre-defined patterns.
+* Maze Creation: Users can create mazes manually by clicking on the grid or automatically generate mazes using pre-defined patterns.
 
- Pathfinding Algorithms: Visualizes the A-star and Breadth-First Search algorithms.
+* Pathfinding Algorithms: Visualizes the A-star and Breadth-First Search algorithms.
 
- Interactive UI: Easy-to-use interface to select algorithms, control speed, and reset the grid.
+* Interactive UI: Easy-to-use interface to select algorithms, control speed, and reset the grid.
